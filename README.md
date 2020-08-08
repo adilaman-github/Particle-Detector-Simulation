@@ -1,1 +1,2 @@
-# Particle-Detector-Simulation
+# Steps to run the Simulation
+m k
